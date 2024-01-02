@@ -1,0 +1,5 @@
+AppName: vpi-next-hub
+SwaggerConfigurationOptions:
+  Header: Referer
+  SwaggerPath: /swagger/index.html
+Config: default
